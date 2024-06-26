@@ -29,7 +29,7 @@ El informe analiza un dataset de llamadas al 911 en Baltimore, reduciendo los da
    - "Asalto grave" es menos frecuente y tiende a la baja.
    - Aumento de incidentes durante el verano del hemisferio norte.
 
-3. **Mapa de Calor de Llamadas por Distrito Sheriff**:
+3. **Heatmap de Llamadas por Distrito Sheriff**:
    
    <img width="442" alt="image" src="https://github.com/tvonriegen/911-Baltimore/assets/173301239/5cc9bff9-9d36-451c-853b-9a90afed2b4d">
 
