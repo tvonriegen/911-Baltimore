@@ -82,3 +82,18 @@ https://www.kaggle.com/datasets/ahmadrafiee/911-calls-for-service-metadata-1-mil
 ### Agradecimientos
 
 Los códigos usados fueron creados con ayuda de las clases de Daniela Opitz y ChatGPT.
+
+### Créditos
+Para la realización de la investigación y creación de las visualizaciones fueron necesarias los siguientes documentos: 
+ 
+Optiz, Daniela (2024). Clases Prácticas Taller de Visualización a la Información. Universidad del Desarrollo 
+
+OpenAI. (2024). ChatGPT [Modelo de lenguaje de gran tamaño]. https://chat.openai.com/chat 
+
+Codeforgermany. (s. f.). click_that_hood/public/data/baltimore.geojson at main · codeforgermany/click_that_hood. GitHub. 
+
+https://github.com/codeforgermany/click_that_hood/blob/main/public/data/baltimore.geojson 
+
+911 Calls for Service [1 Million record]. (2024, 3 marzo). Kaggle. https://www.kaggle.com/datasets/ahmadrafiee/911-calls-for-service-metadata-1-million-record 
+ 
+ 
