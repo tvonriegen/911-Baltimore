@@ -75,6 +75,10 @@ Felipe Cisternas, Enzo Olavarria, Ignacio Rodríguez y Thomas Von Riegen
 
 [link archivos](https://drive.google.com/drive/folders/1URNS03zH2bk8IQC2pR5dc6NPOsfqXYJo?usp=sharing)
 
+https://github.com/codeforgermany/click_that_hood/blob/main/public/data/baltimore.geojson
+
+https://www.kaggle.com/datasets/ahmadrafiee/911-calls-for-service-metadata-1-million-record
+
 ### Agradecimientos
 
 Los códigos usados fueron creados con ayuda de las clases de Daniela Opitz y ChatGPT.
